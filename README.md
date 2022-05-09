@@ -1,4 +1,4 @@
-# avm_location
+# avmlocation
 Matlab code for the visualisation of arteriovenous malformation (which is visible on DSA) on MRI. Requires a coronal and sagittal DSA and a T1-weighted MRI as input.
 
 This code can be used to find the 3D-location of arteriovenous malformations that can only be detected in 2D DSA images.
